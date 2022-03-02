@@ -1,0 +1,18 @@
+body{
+    background-color: #333;
+    color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    line-height: 2em;
+}
+#tartalom{
+    width: 80%;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px black dashed;
+    padding: 10px;
+}
+nav,a{
+    text-decoration: none;
+    color: red;
+}
