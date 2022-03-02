@@ -1,13 +1,28 @@
 body{
-    width: 100%;
-    text-align: center;
+    background-color: #333;
+    color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    line-height: 2em;
 }
 
 a, a:visited{
     text-decoration: none;
+    margin: 0 50px;
+    color: red;
 }
 
 #logo{
     width: 12%;
     float: right;
+}
+
+div#content{
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 5px 10px 20px black;
+}
+
+#rolunkimg{
+    height: 270px;
 }
