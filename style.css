@@ -1,7 +1,13 @@
 body{
     width: 100%;
+    text-align: center;
 }
 
 a, a:visited{
     text-decoration: none;
+}
+
+#logo{
+    width: 12%;
+    float: right;
 }
