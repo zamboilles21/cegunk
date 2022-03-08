@@ -7,6 +7,18 @@
 }
 body{
     padding: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-overflow: inherit;
+    text-anchor: middle;
+    text-shadow: 1px 1px darkcyan;
+    text-decoration-color: darkred;
+    text-emphasis: none;
+    text-rendering: optimizeSpeed;
+    display: block;
+    align-self: start;
+    line-height: normal;
+    font-kerning: auto;
+    word-spacing: initial;
 }
 nav,a{
     text-decoration: none;
