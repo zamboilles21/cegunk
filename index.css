@@ -11,6 +11,7 @@ body{
     margin-right: auto;
     border: 10px black dashed;
     padding: 10px;
+    font-stretch: ultra-expanded;
 }
 nav,a{
     text-decoration: none;
