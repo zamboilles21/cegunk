@@ -11,10 +11,16 @@ body{
     margin-right: auto;
     border: 10px black dashed;
     padding: 10px;
+    font-stretch: ultra-expanded;
 }
 nav,a{
     text-decoration: none;
     color: red;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: larger;
+    text-shadow: 2px 2px black;
 }
 h1{
     color: #FDE55F;
@@ -25,4 +31,19 @@ h1{
     border-bottom-width: 5px;
     border-bottom-color: #FDE55F;
     padding: 10px;
+}
+.kep>.gif{
+    margin-right: auto;
+    margin-left: auto;
+    border:2px black;
+    box-shadow: 2px 2px 2px red;
+    position: relative;
+}
+#video{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 350px;
+    
+    
 }

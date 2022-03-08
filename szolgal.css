@@ -3,8 +3,39 @@
     opacity: 0.8;
     padding: 15px;
     background-color: blanchedalmond;
+    box-shadow: lawngreen 10px 11px 12px 13px, red 22px 27px 29px 11px,navy 15px 19px 18px 21px;
 
 }
 body{
     padding: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-overflow: inherit;
+    text-anchor: middle;
+    text-shadow: 5px 5px darkcyan;
+    text-decoration-color: darkred;
+    text-emphasis: none;
+    text-rendering: optimizeSpeed;
+    display: block;
+    align-self: start;
+    line-height: normal;
+    font-kerning: auto;
+    word-spacing: initial;
+    transform-origin: bottom;
+    font-weight: bold;
+    flex-direction: initial;
+    font-style: oblique;
+    font-display: auto;
+    font-variant-caps: unicase;
+    object-fit: fill;
+    font-stretch: ultra-expanded;
+    
+}
+nav,a{
+    text-decoration: none;
+    color: red;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: larger;
+    text-shadow: 1px 1px black;
 }
