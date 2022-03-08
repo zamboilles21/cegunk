@@ -3,7 +3,7 @@
     opacity: 0.8;
     padding: 15px;
     background-color: blanchedalmond;
-    box-shadow: lawngreen 10px 11px 12px 13px, red 22px 27px 29px 11px,navy 15px 19px 18px 21px;
+    box-shadow: lawngreen 10px 11px 12px 13px, red 22px 27px 29px 11px,navy 15px 19px 18px 21px inset;
 
 }
 body{
@@ -11,7 +11,7 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-overflow: inherit;
     text-anchor: middle;
-    text-shadow: 5px 5px darkcyan;
+    text-shadow: 5px 5px 4px darkcyan, magenta 2px 1px 2px;
     text-decoration-color: darkred;
     text-emphasis: none;
     text-rendering: optimizeSpeed;
@@ -37,5 +37,5 @@ nav,a{
     margin-right: auto;
     text-align: center;
     font-size: larger;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px 2px black,hotpink 10px 10px 100px inherit;
 }
