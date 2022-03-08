@@ -11,4 +11,9 @@ body{
 nav,a{
     text-decoration: none;
     color: red;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: larger;
+    text-shadow: 1px 1px black;
 }
