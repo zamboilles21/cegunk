@@ -8,3 +8,7 @@
 body{
     padding: 15px;
 }
+nav,a{
+    text-decoration: none;
+    color: red;
+}
