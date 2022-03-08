@@ -38,4 +38,11 @@ h1{
     box-shadow: 2px 2px 2px red;
     position: relative;
 }
-
+#video{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 350px;
+    
+    
+}
